@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="transperent_color">#00000000</drawable>   
+    <color name="white1">#ffffff</color> 
+    <color name="white2">#99ffff</color>
+    <color name="trans1">#00000000</color> 
+    <color name="grey05">#00ffff</color> 
+    <color name="orange4">#cc6600</color> 
+    <color name="orange5">#cc9900</color> 
+    <color name="blue2">#0000ff</color> 
+    <color name="blue25">#0099ff</color>
+    <color name="black">#000000</color> 
+</resources>

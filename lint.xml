@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DrawAllocation">
+        <ignore path="src\com\example\killthemall\Sprite.java" />
+    </issue>
+    <issue id="WrongCall">
+        <ignore path="src\com\example\killthemall\GameLoopThread.java" />
+        <ignore path="src\com\example\killthemall\GameView.java" />
+    </issue>
+</lint>
